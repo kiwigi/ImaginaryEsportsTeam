@@ -153,6 +153,16 @@ td{
     padding: 15px;
 
 }
+.rosterTitle{
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    
+    /* font-family: Cattyla; */
+    font-size: 15px;
+
+}
 
 @font-face {
     font-family: 'Cattyla'; /*a name to be used later*/
